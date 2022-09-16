@@ -1,0 +1,29 @@
+20220914	23:10:11	675859f3-8660-41bf-bb3f-a68a3ffdaad3	TypeError: req.session.regenerate is not a function
+20220914	23:45:09	f194f066-9d42-45f5-bc02-135bd533f638	TokenError: Bad Request
+20220914	23:48:41	3e654151-0512-4a36-ae84-f8e55f55fdf4	ReferenceError: User is not defined
+20220914	23:51:55	d6c7f49b-caf3-477a-85b6-9ae797ad1988	ValidationError: Users validation failed: password: Path `password` is required., lastname: Path `lastname` is required.
+20220914	23:58:06	3d8f8262-6780-47b2-8767-327964fe2cd4	ReferenceError: User is not defined
+20220915	00:02:29	9fee7a11-0674-4147-941b-4fa2276e83fa	TokenError: Bad Request
+20220915	00:03:26	88c1bb96-bea8-443b-ae32-5c3c97e900a5	TokenError: Bad Request
+20220915	22:36:22	2cbd4c6b-46fc-4032-81f0-1e855f386012	TypeError: Cannot read properties of undefined (reading 'username')
+20220915	22:36:26	c1b48e8a-b92d-4a81-bc4d-919238ee1fe7	TypeError: Cannot read properties of undefined (reading 'username')
+20220915	22:36:58	b094c482-4a48-411a-ae1a-28acf67099e1	TypeError: Cannot read properties of undefined (reading 'username')
+20220915	22:39:47	d8cce82f-eea3-4eae-b303-5ea130351569	TypeError: Cannot read properties of undefined (reading 'username')
+20220915	22:39:56	75b92a98-3e98-4af3-b069-513330774829	TypeError: Cannot read properties of undefined (reading 'username')
+20220915	22:40:00	9c6b44b0-28f7-409e-bcd6-5910e26fb0df	TypeError: Cannot read properties of undefined (reading 'username')
+20220916	13:59:42	4d30f68c-b91b-4755-ab53-d1b143219e33	ValidationError: Users validation failed: firstname: Path `firstname` is required.
+20220916	14:00:53	13218211-a5c1-4810-b75a-219c7df0def8	TokenError: Bad Request
+20220916	14:37:15	81f11dda-9c6d-4dec-b61f-e64cfdfff5ec	ReferenceError: err is not defined
+20220916	16:10:46	0f10bb42-f582-4aa2-834b-2be80f77e711	Error: Origin Not Allowed by CORS
+20220916	18:18:58	acd8d3e0-1e24-460b-9b63-a404d8d1ac47	InternalOAuthError: Failed to obtain access token
+20220916	18:19:01	dd208f20-c39f-4553-962e-8f7598f2e462	InternalOAuthError: Failed to obtain access token
+20220916	18:27:48	17974e1f-9a24-42d1-90e4-cc5dc262c7cf	InternalOAuthError: Failed to obtain access token
+20220917	00:44:37	20bbc22e-eaae-4597-a0f7-b08b741dd05c	Error: Origin Not Allowed by CORS
+20220917	00:44:38	764e0384-0dbc-439c-afe3-57f3623a44b3	Error: Origin Not Allowed by CORS
+20220917	00:44:41	c0edc41b-e608-4354-a050-767d56839331	Error: Origin Not Allowed by CORS
+20220917	01:14:31	11809183-d271-4e78-b0c1-5d72c59c0ceb	Error: Origin Not Allowed by CORS
+20220917	01:14:36	203b3992-db85-4715-8221-f5e1b5365925	Error: Origin Not Allowed by CORS
+20220917	01:15:01	21742d96-b806-4f3d-8631-2a8bd62bde64	Error: Origin Not Allowed by CORS
+20220917	01:19:10	782fdac3-55fc-4c4e-aa7f-a95bc33b796f	Error: Origin Not Allowed by CORS
+20220917	01:19:13	55015bce-24ec-4eae-8c7e-a066996ae8df	Error: Origin Not Allowed by CORS
+20220917	01:19:45	152e0f09-5eea-4f67-a357-d440ed747c97	Error: Origin Not Allowed by CORS
